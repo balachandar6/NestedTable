@@ -1,0 +1,20 @@
+.nestedTable table,.nestedTable th, .nestedTable td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.nestedTable th, .nestedTable td {
+  padding: 15px;
+}
+
+.nestedTable th {
+  background-color: #e0e0d1;
+  user-select: none;
+}
+
+.nestedTable .indexCell{
+  background-color: #e0e0d1;
+}
+
+.nestedTable .borderColor {
+  border-bottom-color: transparent;
+}
